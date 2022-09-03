@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 
-	public static void Main (String[] args)
+	public static void main (String[] args)
 	{
 		//Numero de subconjuntos
 		int n;
@@ -14,7 +14,11 @@ public class Main {
 		Scanner leer = new Scanner(System.in);
 		System.out.print("Introduzca numero de subconjuntos: ");
 		n = leer.nextInt();
+		System.out.print("Introduzca Tamaño de buzon inicial/final: ");
+
 		a = leer.nextInt();
+		System.out.print("Introduzca Tamaño de buzones intermedios: ");
+
 		b = leer.nextInt();
 		
 		
