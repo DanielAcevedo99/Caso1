@@ -1,21 +1,19 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Buzon {
-	private int tamano;//tamaño buzon
-	private Queue<String> cola= new LinkedList<String>();
-	public Buzon(int n) {
-		this.tamano=n;
+public abstract class Buzon {
+
+	// ==== ATRIBUTOS ====
+	protected int tamano; //tamaño buzon
+	protected Queue<String> cola = new LinkedList<String>();
+
+	// ==== METODOS ====
+	public Buzon(int tamano) {
+		this.tamano = tamano;
 	}
 	
-	public synchronized void recibeMensaje() {
-		if (tamano==0) {
-			
-		}
-	}
+	public abstract void recibeMensaje(String mensaje);
 	
-	public synchronized String sacaMensaje() {
-		
-		return "";
-	}
+	public abstract String sacaMensaje();
+
 }
