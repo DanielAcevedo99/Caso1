@@ -16,4 +16,6 @@ public abstract class Buzon {
 	
 	public abstract String sacaMensaje();
 
+	public abstract boolean capacidadMax();
+	public abstract boolean vacio();
 }

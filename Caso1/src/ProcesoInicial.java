@@ -1,16 +1,37 @@
+import java.util.ArrayList;
 
-public class ProcesoInicial {
+public class ProcesoInicial  extends Thread{
 	
-	private Buzon buzonI;//buzon entrada
-	private Buzon BuzonF;//buzon salida
+	private BuzonInicial buzonF;//buzon salida
 	private int id;
-	private int tipo;// tipo 1: entrada, 2: salida, 3: intermedio
-	
-	public ProcesoInicial(int idd,Buzon ini,Buzon fini, int tip) {
+	private ArrayList<String> cola = new ArrayList<String>();
+	public ProcesoInicial(int idd,BuzonInicial fini) {
 		
 		this.id=idd;
-		this.BuzonF=fini;
-		this.buzonI=ini;
-		this.tipo=tip;
+		this.buzonF =fini;
+	}
+
+	private Boolean end(String d){
+		if (d.equals("FIN")){
+			return true;
+
+		} else {
+			return false;
+		}
+
+	}
+	public void run() {
+		String x="";
+		int i=0;
+		while (end(x)==false){
+			if (buzonF.capacidadMax()) {
+				this.yield();
+			}else{
+				buzonF.recibeMensaje(cola.get(i));
+				i++;
+
+			}
+
+		}
 	}
 }
