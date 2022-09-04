@@ -4,11 +4,12 @@ public class ProcesoInicial  extends Thread{
 	
 	private BuzonInicial buzonF;//buzon salida
 	private int id;
-	private ArrayList<String> cola = new ArrayList<String>();
-	public ProcesoInicial(int idd,BuzonInicial fini) {
+	private String[] cola;
+	public ProcesoInicial(int idd, BuzonInicial fini, String[] mensajes) {
 		
 		this.id=idd;
 		this.buzonF =fini;
+		this.cola=mensajes;
 	}
 
 	private Boolean end(String d){
@@ -22,13 +23,17 @@ public class ProcesoInicial  extends Thread{
 	}
 	public void run() {
 		String x="";
-		int i=0;
-		while (end(x)==false){
+
+
+		for (int j = 0; j <35 ; j++)
+		{
 			if (buzonF.capacidadMax()) {
 				this.yield();
 			}else{
-				buzonF.recibeMensaje(cola.get(i));
-				i++;
+				if (cola[j]!=null) {
+					buzonF.recibeMensaje(cola[j]);
+					System.out.println(cola[j] + " entra a buzon inicial");
+				}
 
 			}
 

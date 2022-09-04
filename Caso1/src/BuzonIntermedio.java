@@ -5,7 +5,7 @@ public class BuzonIntermedio  extends  Buzon{
     }
 
     public synchronized void recibeMensaje(String mensaje) {
-        if (capacidadMax()==true){
+        while (capacidadMax()==true){
             try {
                 wait();
             } catch (InterruptedException e) {
@@ -17,14 +17,12 @@ public class BuzonIntermedio  extends  Buzon{
     }
 
     public synchronized String sacaMensaje() {
-        if (vacio() == true) {
+        while (vacio() == true) {
             try {
                 wait();
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-
-
         }
         String x= cola.poll();
         notify();

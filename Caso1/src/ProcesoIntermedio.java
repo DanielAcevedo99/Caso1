@@ -1,15 +1,15 @@
 import java.util.Random;
 
 public class ProcesoIntermedio extends Thread {
-    private BuzonIntermedio buzonI;//buzon entrada
-    private BuzonIntermedio buzonF;//buzon salida
+    private Buzon buzonI;//buzon entrada
+    private Buzon buzonF;//buzon salida
     private int idNivel;
     private int nivel;// nivel
-    public ProcesoIntermedio( Buzon ini, Buzon fini ,int idNiv, int niv) {
+    public ProcesoIntermedio( BuzonIntermedio ini, BuzonIntermedio fini ,int idNiv, int niv) {
 
         this.idNivel =idNiv;
-        this.buzonF= (BuzonIntermedio) fini;
-        this.buzonI= (BuzonIntermedio) ini;
+        this.buzonF=  fini;
+        this.buzonI=  ini;
         this.nivel=niv;
     }
     public void run(){
@@ -24,6 +24,7 @@ public class ProcesoIntermedio extends Thread {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
+            System.out.println(t);
             buzonF.recibeMensaje(t);
         }
 

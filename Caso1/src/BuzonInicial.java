@@ -5,14 +5,15 @@ public class BuzonInicial extends Buzon {
     }
 
     public synchronized void recibeMensaje(String mensaje) {
-        // if (cola.size() == tamano) {
-        //     throw new Exception("")
-        // }
+        cola.add(mensaje);
+
     }
 
     public synchronized String sacaMensaje() {
 
-        return "";
+        System.out.println(cola.peek()+" sale de buzon inicial");
+
+        return cola.remove();
     }
 
 

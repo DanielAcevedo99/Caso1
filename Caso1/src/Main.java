@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class Main {
 
-	static BuzonInicial buzonInicial;
-	static BuzonFinal buzonFinal;
+	static Buzon buzonInicial;
+	static Buzon buzonFinal;
 
 	//Numero de subconjuntos
 	static int n;
@@ -39,22 +39,28 @@ public class Main {
 			BuzonIntermedio bmed= new BuzonIntermedio(b);
 			buzsn2[i]=bmed;
 		}
-		ProcesoInicial ini= new ProcesoInicial(0, buzonInicial );
-		ProcesoFinal fini = new ProcesoFinal(11,buzonFinal);
+
+		String[] mensajes=new String[35];
+		for (int j = 0; j <35 ; j++) {
+			String men="M"+j;
+			mensajes[j]=men;
+		}
+		ProcesoInicial ini= new ProcesoInicial(0, (BuzonInicial) buzonInicial,mensajes);
+		ProcesoFinal fini = new ProcesoFinal(11, (BuzonFinal) buzonFinal);
 		ProcesoIntermedio[] p= new ProcesoIntermedio[9];
 		for (int i = 0; i <3 ; i++) {//procesos nivel 1
-			ProcesoIntermedio pmid= new ProcesoIntermedio(buzonInicial,buzsn1[i],i+1,1);
+			ProcesoIntermedio pmid= new ProcesoIntermedio((BuzonIntermedio)buzonInicial,(BuzonIntermedio)buzsn1[i],i+1,1);
 			p[i]=pmid;
 		}
 		for (int i = 0; i <3 ; i++) {//procesos nivel 2
-			ProcesoIntermedio pmid= new ProcesoIntermedio(buzsn1[i],buzsn2[i],i+1,2);
-			p[i]=pmid;
+			ProcesoIntermedio pmid= new ProcesoIntermedio((BuzonIntermedio) buzsn1[i], (BuzonIntermedio) buzsn2[i],i+1,2);
+			p[i+3]=pmid;
 
 		}
 
 		for (int i = 0; i <3 ; i++) {//procesos nivel 3
-			ProcesoIntermedio pmid= new ProcesoIntermedio(buzsn2[i],buzonFinal,i+1,3);
-			p[i]=pmid;
+			ProcesoIntermedio pmid= new ProcesoIntermedio( (BuzonIntermedio)buzsn2[i],(BuzonIntermedio) buzonFinal,i+1,3);
+			p[i+6]=pmid;
 
 		}
 
