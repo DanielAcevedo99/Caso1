@@ -51,7 +51,7 @@ public class BuzonIntermedio extends Buzon {
     }
 
     private String getId() {
-        return "Intermedio " + nivel + "-" + transformacion;
+        return "Intermedio " + transformacion + "-" + nivel;
     }
 
 

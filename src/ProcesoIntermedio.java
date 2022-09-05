@@ -40,6 +40,6 @@ public class ProcesoIntermedio extends Thread {
     }
 
     private String getIdentifier() {
-        return "intermedio " + nivel + "-" + transformacion;
+        return "intermedio " + transformacion + "-" + nivel;
     }
 }

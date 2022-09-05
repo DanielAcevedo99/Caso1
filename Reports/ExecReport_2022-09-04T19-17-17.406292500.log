@@ -1,0 +1,971 @@
+
+El proceso intermedio 1-1 intentó recuperar un mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-3 intentó recuperar un mensaje
+El buzón Intermedio 1-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó recuperar un mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó recuperar un mensaje
+El buzón Intermedio 2-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-3 intentó recuperar un mensaje
+El buzón Intermedio 2-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó recuperar un mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó recuperar un mensaje
+El buzón Intermedio 3-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-3 intentó recuperar un mensaje
+El buzón Intermedio 3-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M1
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M1
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M1
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó enviar el mensaje M1T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 recibió el mensaje M1T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 entregó el mensaje M1T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M2
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M2
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M2
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó enviar el mensaje M1T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 recibió el mensaje M1T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 entregó el mensaje M1T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M3
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M3
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M3
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-3 intentó enviar el mensaje M1T11T21T31
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M1T11T21T31
+El proceso intermedio 1-3 intentó recuperar un mensaje
+El buzón Intermedio 1-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final entregó el mensaje M1T11T21T31
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M4
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M4
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M4
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó enviar el mensaje M3T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 recibió el mensaje M3T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 entregó el mensaje M3T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó enviar el mensaje M2T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 recibió el mensaje M2T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 entregó el mensaje M2T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M5
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M5
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M5
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó enviar el mensaje M2T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 recibió el mensaje M2T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 entregó el mensaje M2T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó enviar el mensaje M5T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 recibió el mensaje M5T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M6
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M6
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M6
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-3 intentó enviar el mensaje M2T12T22T32
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M2T12T22T32
+El proceso intermedio 2-3 intentó recuperar un mensaje
+El buzón Intermedio 2-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final entregó el mensaje M2T12T22T32
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó enviar el mensaje M3T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 recibió el mensaje M3T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 entregó el mensaje M5T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 entregó el mensaje M3T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó enviar el mensaje M4T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 recibió el mensaje M4T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 entregó el mensaje M4T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-3 intentó enviar el mensaje M3T13T23T33
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M3T13T23T33
+El proceso intermedio 3-3 intentó recuperar un mensaje
+El buzón final entregó el mensaje M3T13T23T33
+El buzón Intermedio 3-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó enviar el mensaje M6T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 recibió el mensaje M6T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 entregó el mensaje M6T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó enviar el mensaje M6T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 recibió el mensaje M6T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 entregó el mensaje M6T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M7
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M7
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M7
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó enviar el mensaje M4T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 recibió el mensaje M4T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 entregó el mensaje M4T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-3 intentó enviar el mensaje M6T12T22T32
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M6T12T22T32
+El proceso intermedio 2-3 intentó recuperar un mensaje
+El buzón final entregó el mensaje M6T12T22T32
+El buzón Intermedio 2-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó enviar el mensaje M5T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 recibió el mensaje M5T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 entregó el mensaje M5T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M8
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M8
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M8
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M9
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M9
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M9
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó enviar el mensaje M7T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 recibió el mensaje M7T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 entregó el mensaje M7T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó enviar el mensaje M8T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 recibió el mensaje M8T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 entregó el mensaje M8T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-3 intentó enviar el mensaje M5T13T23T33
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M5T13T23T33
+El proceso intermedio 3-3 intentó recuperar un mensaje
+El buzón final entregó el mensaje M5T13T23T33
+El buzón Intermedio 3-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-3 intentó enviar el mensaje M4T11T21T31
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M4T11T21T31
+El proceso intermedio 1-3 intentó recuperar un mensaje
+El buzón Intermedio 1-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final entregó el mensaje M4T11T21T31
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó enviar el mensaje M7T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 recibió el mensaje M7T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 entregó el mensaje M7T13T23
+El buzón Intermedio 3-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M10
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M10
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M10
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó enviar el mensaje M8T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 recibió el mensaje M8T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 entregó el mensaje M8T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-3 intentó enviar el mensaje M8T11T21T31
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M8T11T21T31
+El proceso intermedio 1-3 intentó recuperar un mensaje
+El buzón Intermedio 1-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final entregó el mensaje M8T11T21T31
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó enviar el mensaje M9T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 recibió el mensaje M9T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 entregó el mensaje M9T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó enviar el mensaje M10T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 recibió el mensaje M10T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 entregó el mensaje M10T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-3 intentó enviar el mensaje M7T13T23T33
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M7T13T23T33
+El proceso intermedio 3-3 intentó recuperar un mensaje
+El buzón Intermedio 3-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final entregó el mensaje M7T13T23T33
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó enviar el mensaje M9T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 recibió el mensaje M9T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 entregó el mensaje M9T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó enviar el mensaje M11T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 recibió el mensaje M11T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 entregó el mensaje M11T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó enviar el mensaje M10T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 recibió el mensaje M10T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 entregó el mensaje M10T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-3 intentó enviar el mensaje M10T13T23T33
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M10T13T23T33
+El proceso intermedio 3-3 intentó recuperar un mensaje
+El buzón final entregó el mensaje M10T13T23T33
+El buzón Intermedio 3-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó enviar el mensaje M12T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 recibió el mensaje M12T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 entregó el mensaje M12T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó enviar el mensaje M12T12T22
+El buzón Intermedio 2-2 recibió el mensaje M12T12T22
+El proceso intermedio 2-2 intentó recuperar un mensaje
+El buzón Intermedio 2-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-3 intentó enviar el mensaje M9T12T22T32
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M9T12T22T32
+El proceso intermedio 2-3 intentó recuperar un mensaje
+El buzón Intermedio 2-2 entregó el mensaje M12T12T22
+El buzón final entregó el mensaje M9T12T22T32
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M13
+El buzón inicial recibió el mensaje M13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-3 intentó enviar el mensaje M12T12T22T32
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M12T12T22T32
+El proceso intermedio 2-3 intentó recuperar un mensaje
+El buzón final entregó el mensaje M12T12T22T32
+El buzón Intermedio 2-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó enviar el mensaje M11T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 recibió el mensaje M11T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 entregó el mensaje M11T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M14
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M14
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M14
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó enviar el mensaje M13T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 recibió el mensaje M13T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 entregó el mensaje M13T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-3 intentó enviar el mensaje M11T11T21T31
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M11T11T21T31
+El proceso intermedio 1-3 intentó recuperar un mensaje
+El buzón Intermedio 1-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final entregó el mensaje M11T11T21T31
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó enviar el mensaje M14T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 recibió el mensaje M14T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 entregó el mensaje M14T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M15
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M15
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M15
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó enviar el mensaje M13T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 recibió el mensaje M13T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 entregó el mensaje M13T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó enviar el mensaje M14T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 recibió el mensaje M14T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 entregó el mensaje M14T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó enviar el mensaje M15T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 recibió el mensaje M15T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 entregó el mensaje M15T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M16
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M16
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M16
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M17
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M17
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M17
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-3 intentó enviar el mensaje M14T11T21T31
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M14T11T21T31
+El proceso intermedio 1-3 intentó recuperar un mensaje
+El buzón final entregó el mensaje M14T11T21T31
+El buzón Intermedio 1-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó enviar el mensaje M16T13
+El buzón Intermedio 3-1 recibió el mensaje M16T13
+El buzón Intermedio 3-1 entregó el mensaje M16T13
+El proceso intermedio 3-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-3 intentó enviar el mensaje M13T13T23T33
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M13T13T23T33
+El proceso intermedio 3-3 intentó recuperar un mensaje
+El buzón final entregó el mensaje M13T13T23T33
+El buzón Intermedio 3-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó enviar el mensaje M16T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 recibió el mensaje M16T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó recuperar un mensaje
+El buzón Intermedio 3-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 entregó el mensaje M16T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó enviar el mensaje M15T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 recibió el mensaje M15T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 entregó el mensaje M15T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó enviar el mensaje M17T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 recibió el mensaje M17T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 entregó el mensaje M17T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M18
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M18
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M18
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-3 intentó enviar el mensaje M16T13T23T33
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M16T13T23T33
+El proceso intermedio 3-3 intentó recuperar un mensaje
+El buzón Intermedio 3-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final entregó el mensaje M16T13T23T33
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó enviar el mensaje M18T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 recibió el mensaje M18T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 entregó el mensaje M18T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó enviar el mensaje M17T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 recibió el mensaje M17T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 entregó el mensaje M17T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-3 intentó enviar el mensaje M15T12T22T32
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M15T12T22T32
+El proceso intermedio 2-3 intentó recuperar un mensaje
+El buzón Intermedio 2-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final entregó el mensaje M15T12T22T32
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M19
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M19
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M19
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó enviar el mensaje M19T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 recibió el mensaje M19T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 entregó el mensaje M19T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-3 intentó enviar el mensaje M17T11T21T31
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M17T11T21T31
+El proceso intermedio 1-3 intentó recuperar un mensaje
+El buzón final entregó el mensaje M17T11T21T31
+El buzón Intermedio 1-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó enviar el mensaje M18T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 recibió el mensaje M18T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 entregó el mensaje M18T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó enviar el mensaje M19T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 recibió el mensaje M19T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 entregó el mensaje M19T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M20
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M20
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M20
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-3 intentó enviar el mensaje M18T12T22T32
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M18T12T22T32
+El proceso intermedio 2-3 intentó recuperar un mensaje
+El buzón final entregó el mensaje M18T12T22T32
+El buzón Intermedio 2-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-3 intentó enviar el mensaje M19T13T23T33
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M19T13T23T33
+El proceso intermedio 3-3 intentó recuperar un mensaje
+El buzón Intermedio 3-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final entregó el mensaje M19T13T23T33
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó enviar el mensaje M21T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 recibió el mensaje M21T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 entregó el mensaje M21T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó enviar el mensaje M20T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 recibió el mensaje M20T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 entregó el mensaje M20T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó enviar el mensaje M22T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 recibió el mensaje M22T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 entregó el mensaje M22T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó enviar el mensaje M22T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 recibió el mensaje M22T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 entregó el mensaje M22T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó enviar el mensaje M21T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 recibió el mensaje M21T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 entregó el mensaje M21T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó enviar el mensaje M20T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 recibió el mensaje M20T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 entregó el mensaje M20T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-3 intentó enviar el mensaje M20T11T21T31
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M20T11T21T31
+El proceso intermedio 1-3 intentó recuperar un mensaje
+El buzón Intermedio 1-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final entregó el mensaje M20T11T21T31
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-3 intentó enviar el mensaje M22T13T23T33
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M22T13T23T33
+El proceso intermedio 3-3 intentó recuperar un mensaje
+El buzón final entregó el mensaje M22T13T23T33
+El buzón Intermedio 3-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-3 intentó enviar el mensaje M21T12T22T32
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M21T12T22T32
+El proceso intermedio 2-3 intentó recuperar un mensaje
+El buzón Intermedio 2-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final entregó el mensaje M21T12T22T32
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M24
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M24
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M24
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó enviar el mensaje M23T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 recibió el mensaje M23T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 entregó el mensaje M23T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M25
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M25
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M25
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje M26
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje M26
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje M26
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó enviar el mensaje M24T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 recibió el mensaje M24T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 entregó el mensaje M24T11
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó enviar el mensaje M25T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 recibió el mensaje M25T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 entregó el mensaje M25T13
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó enviar el mensaje M23T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 recibió el mensaje M23T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 entregó el mensaje M23T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó enviar el mensaje M24T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 recibió el mensaje M24T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 entregó el mensaje M24T11T21
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso inicial intentó enviar el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial recibió el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceo inicial envió todos los mensajes. Finaliza su ejecución
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-3 intentó enviar el mensaje M23T12T22T32
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M23T12T22T32
+El proceso intermedio 2-3 intentó recuperar un mensaje
+El buzón final entregó el mensaje M23T12T22T32
+El buzón Intermedio 2-2 está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó enviar el mensaje M26T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 recibió el mensaje M26T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón inicial entregó el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 entregó el mensaje M26T12
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 intentó enviar el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 recibió el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-1 recibió el mensaje 'FIN'. Finaliza su ejecución
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-1 entregó el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó enviar el mensaje M25T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 recibió el mensaje M25T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 entregó el mensaje M25T13T23
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 intentó enviar el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 recibió el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-1 recibió el mensaje 'FIN'. Finaliza su ejecución
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-1 entregó el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 intentó enviar el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 1-2 recibió el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-2 recibió el mensaje 'FIN'. Finaliza su ejecución
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-3 intentó enviar el mensaje M24T11T21T31
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M24T11T21T31
+El proceso intermedio 1-3 intentó recuperar un mensaje
+El buzón final entregó el mensaje M24T11T21T31
+El buzón Intermedio 1-2 entregó el mensaje FIN
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 intentó enviar el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 recibió el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-1 recibió el mensaje 'FIN'. Finaliza su ejecución
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó enviar el mensaje M26T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 recibió el mensaje M26T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-1 entregó el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 entregó el mensaje M26T12T22
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 intentó enviar el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 3-2 recibió el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-2 recibió el mensaje 'FIN'. Finaliza su ejecución
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 1-3 intentó enviar el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje FIN
+El proceso intermedio 1-3 recibió el mensaje 'FIN'. Finaliza su ejecución
+El buzón final entregó el mensaje FIN
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-3 intentó enviar el mensaje M25T13T23T33
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M25T13T23T33
+El proceso intermedio 3-3 intentó recuperar un mensaje
+El buzón final entregó el mensaje M25T13T23T33
+El buzón Intermedio 3-2 entregó el mensaje FIN
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 3-3 intentó enviar el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje FIN
+El proceso intermedio 3-3 recibió el mensaje 'FIN'. Finaliza su ejecución
+El buzón final entregó el mensaje FIN
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 intentó enviar el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón Intermedio 2-2 recibió el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-2 recibió el mensaje 'FIN'. Finaliza su ejecución
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-3 intentó enviar el mensaje M26T12T22T32
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje M26T12T22T32
+El proceso intermedio 2-3 intentó recuperar un mensaje
+El buzón final entregó el mensaje M26T12T22T32
+El buzón Intermedio 2-2 entregó el mensaje FIN
+El proceso final intentó recuperar un mensaje
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El proceso intermedio 2-3 intentó enviar el mensaje FIN
+El buzón final está vacio. Inicia espera para sacar el siguiente mensaje
+El buzón final recibió el mensaje FIN
+El proceso intermedio 2-3 recibió el mensaje 'FIN'. Finaliza su ejecución
+El buzón final entregó el mensaje FIN
+El proceso final recibió el tercer mensaje 'FIN'. Finaliza su ejecución
+Finalizó la ejecución del proceso final. Fin de la aplicación
