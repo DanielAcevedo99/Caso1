@@ -1,7 +1,13 @@
+import java.time.LocalDateTime;
 import java.util.Scanner;
 
+import Utils.Reporter;
+
 public class Main {
-	public static void main (String[] args)
+
+	public static final Reporter rep = new Reporter("ExecReport " + LocalDateTime.now().toString());
+	
+	public static void main(String[] args)
 	{
 		Scanner leer = new Scanner(System.in);
 		System.out.print("Introduzca numero de subconjuntos: ");
@@ -24,12 +30,12 @@ public class Main {
 		// Procesos y buzones intermedios
 		for(int i = 1; i <= 3; i++) { 				// Ciclo por los niveles
 			Buzon be = bi;
-			for(int j = 0; j < 2; j++) { 			// Ciclo por las trasnformaciones
-				Buzon bs = new BuzonIntermedio(s2);
-				new ProcesoIntermedio(be, bs, 1, j+1).start();
+			for(int j = 1; j < 3; j++) { 			// Ciclo por las trasnformaciones
+				Buzon bs = new BuzonIntermedio(s2, i, j);
+				new ProcesoIntermedio(be, bs, i, j).start();
 				be = bs;
 			}
-			new ProcesoIntermedio(be, bf, 1, 3).start();
+			new ProcesoIntermedio(be, bf, i, 3).start();
 		}
 
 		pi.start();
@@ -39,7 +45,8 @@ public class Main {
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
-		System.out.println("Finalizó la ejecución del proceso final. Fin de la aplicación");
+		rep.report("Finalizó la ejecución del proceso final. Fin de la aplicación");
+		rep.close();
 		
 	}
 }

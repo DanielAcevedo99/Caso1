@@ -20,6 +20,7 @@ public class BuzonInicial extends Buzon {
             System.out.println("Se intentó agregar un mensaje cuando el buzon inicial estaba lleno");
         }
         cola.add(mensaje);
+        Main.rep.rMessageAdded("inicial", mensaje);
         notify();
     }
 
@@ -29,12 +30,15 @@ public class BuzonInicial extends Buzon {
 	 */
     public synchronized String sacaMensaje() {
         while(cola.size() == 0) {
+            Main.rep.rBuzonVacio("inicial");
             try {
                 wait();
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
         }
-        return cola.remove();
+        String msg = cola.remove();
+        Main.rep.rMessageRemoved("inicial", msg);
+        return msg;
     }
 }

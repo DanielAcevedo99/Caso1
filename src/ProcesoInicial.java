@@ -24,7 +24,9 @@ public class ProcesoInicial extends Thread {
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
+			Main.rep.rSendAttempt("inicial", msg);
 			while(buzonS.getCapacidad() == 0) {
+				Main.rep.rBuzonLleno("inicial", msg);
 				this.yield();
 			}
 			buzonS.recibeMensaje(msg);
@@ -39,10 +41,14 @@ public class ProcesoInicial extends Thread {
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
+			Main.rep.rSendAttempt("inicial", msg);
 			while(buzonS.getCapacidad() == 0) {
+				Main.rep.rBuzonLleno("inicial", msg);
 				this.yield();
 			}
 			buzonS.recibeMensaje(msg);
 		}
+
+		Main.rep.report("El proceo inicial envió todos los mensajes. Finaliza su ejecución");
 	}
 }

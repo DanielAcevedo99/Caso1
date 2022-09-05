@@ -1,7 +1,12 @@
 public class BuzonIntermedio extends Buzon {
+
+    private int nivel;
+    private int transformacion;
     
-    public BuzonIntermedio(int tamano) {
+    public BuzonIntermedio(int tamano, int nivel, int transformacion) {
         super(tamano);
+        this.nivel = nivel;
+        this.transformacion = transformacion;
     }
 
     /**
@@ -12,6 +17,7 @@ public class BuzonIntermedio extends Buzon {
      */
     public synchronized void recibeMensaje(String mensaje) {
         while(cola.size() == tamano) {
+            Main.rep.rBuzonLleno(getId() , mensaje);
             try {
                 wait();
             } catch (InterruptedException e) {
@@ -19,6 +25,7 @@ public class BuzonIntermedio extends Buzon {
             }
         }
         cola.add(mensaje);
+        Main.rep.rMessageAdded(getId(), mensaje);
         notify();
     }
 
@@ -30,6 +37,7 @@ public class BuzonIntermedio extends Buzon {
 	 */
     public synchronized String sacaMensaje() {
         while(cola.size() == 0) {
+            Main.rep.rBuzonVacio(getId());
             try {
                 wait();
             } catch (InterruptedException e) {
@@ -37,8 +45,13 @@ public class BuzonIntermedio extends Buzon {
             }
         }
         String msg = cola.remove();
+        Main.rep.rMessageRemoved(getId(), msg);
         notify();
         return msg;
+    }
+
+    private String getId() {
+        return "Intermedio " + nivel + "-" + transformacion;
     }
 
 

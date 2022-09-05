@@ -10,6 +10,7 @@ public class BuzonFinal extends Buzon {
      */
     public synchronized void recibeMensaje(String mensaje) {
         while(cola.size() == tamano) {
+            Main.rep.rBuzonLleno("final", mensaje);
             try {
                 wait();
             } catch (InterruptedException e) {
@@ -17,6 +18,7 @@ public class BuzonFinal extends Buzon {
             }
         }
         cola.add(mensaje);
+        Main.rep.rMessageAdded("final", mensaje);
     }
 
     /**
@@ -35,6 +37,7 @@ public class BuzonFinal extends Buzon {
             System.out.println("Se intentó sacar un mensaje del buzón final cuando este no tenía nungino");
         }
         String msg = cola.remove();
+        Main.rep.rMessageRemoved("final", msg);
         notify();
         return msg;
     }

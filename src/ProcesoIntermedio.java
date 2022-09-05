@@ -18,18 +18,28 @@ public class ProcesoIntermedio extends Thread {
     public void run() {
         boolean terminar = false;
         while(!terminar) {
+            Main.rep.rRetriveAttempt(getIdentifier());
             String msg = buzonE.sacaMensaje();
-            msg += "T" + transformacion + nivel;
+            if(msg == "FIN") {
+                terminar = true;
+            } else {
+                msg += "T" + transformacion + nivel;
+            }
             int time = ThreadLocalRandom.current().nextInt(50, 501);
             try {
                 sleep(time);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
+            Main.rep.rSendAttempt(getIdentifier(), msg);
             buzonS.recibeMensaje(msg);
             if(msg == "FIN") {
-                terminar = true;
+                Main.rep.rEndOfExecution(getIdentifier());
             }
         }
+    }
+
+    private String getIdentifier() {
+        return "intermedio " + nivel + "-" + transformacion;
     }
 }
