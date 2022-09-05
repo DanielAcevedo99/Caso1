@@ -16,6 +16,7 @@ public class ProcesoInicial extends Thread {
 
 	@Override
 	public void run() {
+		// Creación de n sub conjuntos
 		for(int i = 1; i <= n; i++) {
 			String msg = "M" + i;
 			int time = ThreadLocalRandom.current().nextInt(50, 501);

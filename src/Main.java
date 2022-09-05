@@ -25,6 +25,7 @@ public class Main {
 
 		// Proceso inicial y final
 		ProcesoInicial pi = new ProcesoInicial(bi, n);
+		pi.start();
 		ProcesoFinal pf = new ProcesoFinal(bf);
 
 		// Procesos y buzones intermedios
@@ -38,7 +39,6 @@ public class Main {
 			new ProcesoIntermedio(be, bf, i, 3).start();
 		}
 
-		pi.start();
 		pf.start();
 		try {
 			pf.join();
@@ -47,6 +47,5 @@ public class Main {
 		}
 		rep.report("Finalizó la ejecución del proceso final. Fin de la aplicación");
 		rep.close();
-		
 	}
 }

@@ -32,7 +32,7 @@ public class BuzonFinal extends Buzon {
      * despertar a un productos que estubiera dormido
      * esperando añadir un mensaje.
      */
-    public synchronized String sacaMensaje(){
+    public synchronized String sacaMensaje() {
         if(cola.size() == 0) {
             System.out.println("Se intentó sacar un mensaje del buzón final cuando este no tenía nungino");
         }
